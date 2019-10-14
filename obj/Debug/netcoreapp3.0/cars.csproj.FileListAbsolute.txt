@@ -1,0 +1,11 @@
+/Users/ellieash/workspace/cars/bin/Debug/netcoreapp3.0/cars
+/Users/ellieash/workspace/cars/bin/Debug/netcoreapp3.0/cars.deps.json
+/Users/ellieash/workspace/cars/bin/Debug/netcoreapp3.0/cars.runtimeconfig.json
+/Users/ellieash/workspace/cars/bin/Debug/netcoreapp3.0/cars.runtimeconfig.dev.json
+/Users/ellieash/workspace/cars/bin/Debug/netcoreapp3.0/cars.dll
+/Users/ellieash/workspace/cars/bin/Debug/netcoreapp3.0/cars.pdb
+/Users/ellieash/workspace/cars/obj/Debug/netcoreapp3.0/cars.csprojAssemblyReference.cache
+/Users/ellieash/workspace/cars/obj/Debug/netcoreapp3.0/cars.AssemblyInfoInputs.cache
+/Users/ellieash/workspace/cars/obj/Debug/netcoreapp3.0/cars.AssemblyInfo.cs
+/Users/ellieash/workspace/cars/obj/Debug/netcoreapp3.0/cars.dll
+/Users/ellieash/workspace/cars/obj/Debug/netcoreapp3.0/cars.pdb
